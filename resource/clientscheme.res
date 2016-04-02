@@ -12,7 +12,7 @@ Scheme
 													// same value as Crosshair
 		
 		"HP"					"243 243 243 255"
-		"HP Buff"				"0 255 127 255"
+		"HP Buff"				"71 168 198 255"
 		"HP Low"				"200 45 45 255"
 		
 		"Damage Numbers"		"255 255 0 255"
